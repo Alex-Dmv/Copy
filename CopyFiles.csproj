@@ -23,7 +23,7 @@
     <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <StartAction>Project</StartAction>
-    <StartArguments>/I=2000 /OUT=C:\TestCopy\out /IN=C:\TestCopy\in /P</StartArguments>
+    <StartArguments>/I=60 /OUT=C:\TestCopy\out /IN=C:\TestCopy\in /P /R </StartArguments>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
     <OutputPath>bin\Release\</OutputPath>

@@ -5,3 +5,10 @@ C:\Users\Администратор\Documents\SharpDevelop Projects\CopyFiles\Co
 C:\Users\Администратор\Documents\SharpDevelop Projects\CopyFiles\CopyFiles\obj\Debug\CopyFiles.exe
 C:\Users\Администратор\Documents\SharpDevelop Projects\CopyFiles\CopyFiles\obj\Debug\CopyFiles.pdb
 C:\Users\Администратор\Documents\SharpDevelop Projects\CopyFiles\CopyFiles\bin\Debug\NDesk.Options.dll
+C:\docs\SharpDevelop Projects\CopyFiles\CopyFiles\obj\Debug\CopyFiles.csprojResolveAssemblyReference.cache
+C:\docs\SharpDevelop Projects\CopyFiles\CopyFiles\obj\Debug\CopyFiles.exe
+C:\docs\SharpDevelop Projects\CopyFiles\CopyFiles\bin\Debug\CopyFiles.exe.config
+C:\docs\SharpDevelop Projects\CopyFiles\CopyFiles\bin\Debug\CopyFiles.exe
+C:\docs\SharpDevelop Projects\CopyFiles\CopyFiles\bin\Debug\CopyFiles.pdb
+C:\docs\SharpDevelop Projects\CopyFiles\CopyFiles\bin\Debug\NDesk.Options.dll
+C:\docs\SharpDevelop Projects\CopyFiles\CopyFiles\obj\Debug\CopyFiles.pdb
